@@ -1,4 +1,6 @@
-### Quran API - PYTHON 
+# <span style="color: #00796B; font-family: 'Times New Roman', serif;">✨ DATA SCIENCE WITH QURAN API: PYTHON IMPLEMENTATION ✨</span>
+### <span style="color: #283593; font-family: 'Arial', sans-serif;">A Comprehensive Guide to Leveraging Quranic Data for Data Science Analysis</span>
+
 
 ## install packages
 
